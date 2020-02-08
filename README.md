@@ -6,4 +6,4 @@
 
 # OVERVIEW
 
-When you press the cross key, Unity-Chan runs, and when you press the space key, she jumps.
+Unity-Chan runs when you press the cross key and she jumps when you press the space key.
